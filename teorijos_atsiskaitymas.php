@@ -77,11 +77,11 @@ trim();
 
 //16.	Kas laikoma superglobaliame kintamajame $_POST?
 
-HTML formos
+HTTP formos kuriame yra informacija, kuri naudojama gauti formos duomenis, siunčiamus metodu "POST".
 
 //17.	Kas laikoma superglobaliame kintamajame $_FILES?
 
-HTML formas kuriame yra informacija apie failą, tokia kaip failo pavadinimas, tipas, dydis ir klaida.
+HTTP formos kuriame yra informacija apie failą, tokia kaip failo pavadinimas, tipas, dydis ir klaida.
 
 //18.	Git status komanda leidžia padaryti ką?
 
